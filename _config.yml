@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Welcome to biginsect!
 subtitle:
 description:
 keywords:
@@ -78,6 +78,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
   repo: https://github.com/biginsect/biginsect.github.io.git
   branch: master
